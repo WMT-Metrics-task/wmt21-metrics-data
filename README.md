@@ -16,7 +16,7 @@ The German->English challenge set was created by Eleftherios Avramidis and Vivie
 
 ### Files in this repository:
 - `metric_submissions/all_inputs`: Download all metric submissions for all inputs including newstest, florestest, tedtalks and challengesets
-- `metric_submissions/challenge_sets`: Download all metric submissions for all only challengeset inputs   
+- `metric_submissions/challenge_sets`: Download all metric submissions for challenge sets only   
 
 
 ### Bibtex Citation
@@ -41,4 +41,4 @@ If you are using any of this data, please cite
         pages = "733--774"
     }
 
-
+Note that Eleftherios Avramidis and Vivien Macketanz are working on a paper about the German->English challenge sets. We will add a citation to that paper when it is avalalable, and request that you also cite their paper if you are using data from the German->English challenge set.
