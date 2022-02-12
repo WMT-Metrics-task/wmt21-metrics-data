@@ -2,6 +2,8 @@
 This repository contains data for the WMT 21 Metrics shared task
 Link to the paper: [Results of the metrics shared task.](https://aclanthology.org/2021.wmt-1.73/)
  
+The German->English challenge set was created by Eleftherios Avramidis and Vivien Macketanz, and is distributed under a Creative Commons Attribution-ShareAlike 4.0 License. 
+
 
 ### External Links:
 
